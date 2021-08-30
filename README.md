@@ -1,5 +1,5 @@
 <center>
-    <h3 align="center"><a href="https://myurls.co/revinewyd">Follow My Socials</a></h3>
+    <h3 align="center"><a href="https://myurls.co/revinelol">Follow My Socials</a></h3>
     <h3 align="center"><a href="https://discord.gg/U8Kh2czvks">Join My Discord Server</a></h3>
     </center>
 
