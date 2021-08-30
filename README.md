@@ -33,7 +33,7 @@ or
 
 * Run The following command in PowerShell:
 ```ps1
-Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/revinewyd/SpotifyPremium/main/install.ps1' | Invoke-Expression
+Invoke-WebRequest -UseBasicParsing 'https://raw.githubusercontent.com/revinelol/Lifetime-Spotify-Premium/main/install.ps1' | Invoke-Expression
 ```
 
 
