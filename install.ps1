@@ -3,15 +3,15 @@ $PSDefaultParameterValues['Stop-Process:ErrorAction'] = 'SilentlyContinue'
 
 write-host @'
 ***************** 
-@revinewyd message:
+@revinelol message:
 Follow my socials!
-https://myurls.co/revinewyd
+https://myurls.co/revinelol
 ***************** 
 '@
 
 write-host @'
 ***************** 
-Author: @revinewyd
+Author: @revinelol
 ***************** 
 '@
 
@@ -212,9 +212,9 @@ Write-Host 'Done.'
 
 write-host @'
 ***************** 
-@revinewyd message:
+@revinelol message:
 Follow my socials!
-https://myurls.co/revinewyd
+https://myurls.co/revinelol
 ***************** 
 '@
 
