@@ -50,5 +50,5 @@ or
 * Remove "Upgrade" Button [#83](https://github.com/mrpond/BlockTheSpot/issues/83) and Remove "Ad Placeholder" [#150](https://github.com/mrpond/BlockTheSpot/issues/150) only works when you use any of the auto installation methods and press `y` when prompted.  
 * "chrome_elf.dll" gets replaced by the Spotify installer each time it updates, hence why you'll probably need to apply the patch again when it happens
 * [Spicetify](https://github.com/khanhas/spicetify-cli) users will need to reapply BlockTheSpot after applying a Spicetify patches.
-* If the automatic install/uninstall scripts do not work, please contact [revinewyd](https://github.com/revinewyd)
+* If the automatic install/uninstall scripts do not work, please contact [revinewyd](https://github.com/revinelol)
 * For more support and discussions, join our [Discord server](https://discord.gg/U8Kh2czvks) 
